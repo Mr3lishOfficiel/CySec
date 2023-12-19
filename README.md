@@ -5,7 +5,7 @@ CySec est un programme en Python qui offre une interface utilisateur en ligne de
 
 
 # Fonctionnalités
-Menu Principal
+
 Lorsque vous exécutez le programme, vous êtes accueilli par un menu principal qui vous permet de choisir entre les modes offensif et défensif, ou de quitter le programme.
 
 ## Menu Offensif (🗡️)
